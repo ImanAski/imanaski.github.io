@@ -1,5 +1,6 @@
 ---
 title: index
 ---
-## Latest Posts
-- [[Hello World]]
+> [!Info]
+> 
+>  This thing is still under construction
