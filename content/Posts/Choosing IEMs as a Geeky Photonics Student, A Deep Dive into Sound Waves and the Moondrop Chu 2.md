@@ -178,18 +178,18 @@ R = \frac{Z_2 - Z_1}{Z_2 + Z_1}
 $$
 
 
-Cheap IEMs often have poor matching (∣R∣≈1 |R| \approx 1 ∣R∣≈1), leading to echoes and weird frequency spikes. Better ones use damping to smooth it out.
+Cheap IEMs often have poor matching ($|R| \approx 1$), leading to echoes and weird frequency spikes. Better ones use damping to smooth it out.
 
 ### Sound Intensity and Decibels: Measuring "Loudness"
 
-Intensity I I I is power per area:
+Intensity $I$ is power per area:
 
 $$
 I = \frac{1}{2} \rho_0 c \omega^2 A^2
 $$
 
 
-For a sine wave with amplitude A A A and ω=2πf \omega = 2\pi f ω=2πf. We hear it on a log scale, so sound pressure level (SPL) is:
+For a sine wave with amplitude $A$ and $\omega = 2\pi f$. We hear it on a log scale, so sound pressure level (SPL) is:
 
 $$
 \text{SPL} = 20 \log_{10} \left( \frac{p}{p_0} \right) \ \text{dB}
