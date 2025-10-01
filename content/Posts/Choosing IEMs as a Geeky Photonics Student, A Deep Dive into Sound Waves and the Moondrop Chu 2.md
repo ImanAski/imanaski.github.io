@@ -6,7 +6,7 @@ tags:
 ---
 > [!Info] Before further reading don't forget my playlists [[content/Musics/Index]]
 
-As a Hardcore Programmer, Photonics student and a life-long geek person who basically lives with listening to music day and night, having a good and distinct sound is like a must and can not be overseen. I've been using mediocre Bluetooth in-ear earphones for daily music listening and and an over-ear headset for my cozy night gaming sessions. but the sound always seemed bloated with unnecessary bass boosts and unreal EQs, and the most annoying fact was my fatigue of listening in long sessions of coding and studying. As a person who study physics daily it became a challenge for me to use physics as a tool to understand what was the problem and not to get drawn in advertisement bullshit. So this is the result of 4 months of sleepless nights, endless thoughts.
+As a Hardcore Programmer, Photonics student and a life-long geek person who basically lives with listening to music day and night, having a good and distinct sound is like a must and can not be overseen. I've been using mediocre Bluetooth in-ear earphones for daily music listening and and an over-ear headset for my cozy night gaming sessions. but the sound always seemed bloated with unnecessary bass boosts and unreal EQs, and the most annoying fact was my fatigue of listening in long sessions of coding and studying. As a person who studies physics daily it became a challenge for me to use physics as a tool to understand what the was problem and not to get drawn in advertisement bullshit. So this is the result of 4 months of sleepless nights, And endless thoughts.
 
 ## You are addicted to bloated sounds
 
