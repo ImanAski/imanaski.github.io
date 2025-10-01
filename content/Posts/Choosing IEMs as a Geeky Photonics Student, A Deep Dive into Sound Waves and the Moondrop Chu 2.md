@@ -155,7 +155,8 @@ Sound is basically a pressure wave pushing through the air. In your ear canal, w
 
 $$
 \frac{\partial^2 p}{\partial x^2} = \frac{1}{c^2} \frac{\partial^2 p}{\partial t^2}
-$$​
+$$
+​
 
 Here, $c = \sqrt{\gamma P_0 / \rho_0} c=γP0​/ρ0$​​ is the speed of sound—about 343 m/s at room temp, with $\gamma = 1.4$ for air, $P_0$​ as atmospheric pressure, and $\rho_0$​ as air density. This equation shows how pressure ripples from the IEM's driver reach your eardrum.
 
@@ -169,11 +170,13 @@ $$
 \rho_0 \frac{\partial v}{\partial t} = -\frac{\partial p}{\partial x}
 $$
 
+
 Acoustic impedance $Z = p / v$  for a plane wave is $Z_0 = \rho_0 c \approx 415$ kg/m²s (rayls) in air. For great sound, the IEM driver should match the ear canal's impedance to cut down on reflections. The reflection coefficient is:
 
 $$
 R = \frac{Z_2 - Z_1}{Z_2 + Z_1}
 $$
+
 
 Cheap IEMs often have poor matching (∣R∣≈1 |R| \approx 1 ∣R∣≈1), leading to echoes and weird frequency spikes. Better ones use damping to smooth it out.
 
@@ -185,11 +188,13 @@ $$
 I = \frac{1}{2} \rho_0 c \omega^2 A^2
 $$
 
+
 For a sine wave with amplitude A A A and ω=2πf \omega = 2\pi f ω=2πf. We hear it on a log scale, so sound pressure level (SPL) is:
 
 $$
 \text{SPL} = 20 \log_{10} \left( \frac{p}{p_0} \right) \ \text{dB}
 $$
+
 
 With $p_0 = 20 \ \mu\text{Pa}$ as the quietest reference. IEMs like the Chu 2 go for a flat SPL from 20 Hz to 20 kHz, keeping things even. Unlike bass-heavy earbuds that throw off the balance, a flat response lets the real physics come through.
 
@@ -205,6 +210,7 @@ $L \approx 2.5$ cm, so $f \approx 3.4$ kHz—that's why we're extra sensitive th
 $$
 f = \frac{c}{2\pi} \sqrt{\frac{A}{V l}}
 $$
+
 With $A$ as neck area, $V$ cavity volume, $l$ neck length. Sealed ones like the Chu 2 skip this for a smoother, flatter sound.
 
 ### Fourier Analysis and a Quantum Twist
@@ -214,21 +220,25 @@ Any sound is a mix via Fourier:
 $$
 s(t) = \int_{-\infty}^{\infty}S(f) e^{i 2\pi f t} \ df
 $$
+
 A flat IEM keeps $|S(f)|$ true. Total harmonic distortion (THD) checks fidelity:
 
 $$
 \text{THD} = \sqrt{\frac{\sum_{n=2}^{\infty} A_n^2}{A_1^2}}
 $$
+
 Low THD means clean playback. For a fun quantum parallel, probability density $P_{ab} = \int_a^b \rho(x) \ dx$ (where $\rho(x) = |\Psi(x)|^2$ changes as:
 
 $$
 \frac{dP_{ab}}{dt} = J(a,t) - J(b,t)dt
 $$
+
 With current:
 
 $$
 J(x,t) = \frac{i\hbar}{2m} \left( \Psi \frac{\partial \Psi^*}{\partial x} - \Psi^* \frac{\partial \Psi}{\partial x} \right)
 $$
+
 In audio, imagine $\Psi$ as wave amplitude and $J$ as energy flow—flat IEMs keep that flow steady across frequencies. 
 
 ## The Price
