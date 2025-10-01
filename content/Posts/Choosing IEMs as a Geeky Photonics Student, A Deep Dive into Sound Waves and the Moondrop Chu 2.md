@@ -243,7 +243,7 @@ In audio, imagine $\Psi$ as wave amplitude and $J$ as energy flow—flat IEMs ke
 
 ## The Price
 
-And with living in a country where my national currency is having a race with cow's shit, All of the above information will be useless if you can not simply buy what is right so in search of what would be my first good listening gear, I chose Moondrop Chu II which I am completely happy rigtht now.
+And with living in a country where my national currency is having a race with cow's shit, All of the above information will be useless if you can not simply buy what is right. So after testing five budget IEMs near $30, the Moondrop Chu 2 stood out. Its 10mm dynamic driver delivers a near-flat frequency response (20 Hz–20 kHz), meaning vocals sound crisp and bass is tight, not boomy like $15 KZs. I tested it with The Beatles - Come together (320kbps) and noticed details in mids that cheaper earbuds buried. The fit took tweaking—medium ear tips were a must for my ears—but the seal gave me deep bass without EQ. Downsides? The cable feels flimsy for long-term use. Compared to the KZ ZSN Pro, the Chu 2’s soundstage feels wider, though it’s less bass-heavy, which suits my playlists.
 
 ## Final words
 
